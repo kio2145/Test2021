@@ -1,4 +1,4 @@
 #includ<iostream>
-//коментар
-//Коментар 2
-//коментар 3
+int main(){
+	return 0;
+}
