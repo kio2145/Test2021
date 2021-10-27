@@ -1,8 +1,7 @@
 #includ<iostream>
-int y=0;
 int main(){
 	int i=0;
-	return 0;
+	return 0; // коментар
 }
 int z=0;
 
